@@ -1,5 +1,3 @@
-This is an individual weekly challenge. 
-
 Create a blog site that contains multiple entries about topics we have covered so far in this bootcamp.
 
 Each blog entry should have a date, title and content body.
